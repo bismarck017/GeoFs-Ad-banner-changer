@@ -1,8 +1,11 @@
 const targetDiv = document.querySelector('.geofs-refreshTarget');
 
 if (targetDiv) {
+    targetDiv.style.display = "block";
+    targetDiv.style.visibility = "visible";
+
     targetDiv.innerHTML = `
-        <div style="font-family: sans-serif; padding: 20px;">
+        <div style="font-family: sans-serif; font-size: 11px; padding: 20px;">
             <h6>Fox-2:</h6>
             <ul>
                 <li>AIM-9 Sidewinder</li>
