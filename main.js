@@ -3,7 +3,7 @@
 // @namespace    https://github.com/bismarck017
 // @version      1.5
 // @description  Adds an atc radar button
-// @author       bismarck017 & meatbroc
+// @author       bismarck017 & giggityohio 
 // @match        https://*.geo-fs.com/geofs.php?v=*
 // @grant        none
 // ==/UserScript==
