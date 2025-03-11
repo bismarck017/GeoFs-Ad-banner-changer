@@ -2,7 +2,7 @@
 // @name         GeoFs-Ad-banner-changer
 // @namespace    https://github.com/bismarck017
 // @version      1.5
-// @description  Adds an atc radar button
+// @description  Adds the Fox-2 missile list to the ad area
 // @author       bismarck017 & giggityohio 
 // @match        https://*.geo-fs.com/geofs.php?v=*
 // @grant        none
