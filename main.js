@@ -53,8 +53,7 @@
                         <li>Matra Magic II</li>
                         <li>Matra R.510</li>
                         <li>Matra R.530</li>
-                        <li>MAA-1A Piranha</li>
-                        <li>MAA-1B Piranha</li>
+                        <li>MAA-1(A/B) Piranha</li>
                         <li>MBDA MICA IR</li>
                         <li>PL-9</li>
                         <li>R-60 / AA-8 Aphid</li>
