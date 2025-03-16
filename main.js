@@ -4,7 +4,7 @@
 // @version      1.7
 // @description  Adds the Fox-2 missile list to the ad area
 // @author       bismarck017 & giggityohio 
-// @match        https://*.geo-fs.com/geofs.php?v=*
+// @match        https://*.geo-fs.com/geofs.php*
 // @grant        none
 // ==/UserScript==
 
